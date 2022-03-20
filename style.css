@@ -1,0 +1,37 @@
+body {text-align: center;
+margin: auto;
+width: 80%;}
+
+header {font-family: 'Merriweather', serif;
+        line-height: 0.8em;}
+
+.p-header {font-size: 10px;}
+.container {font-family: 'Nunito', sans-serif;}
+
+.p-container {font-style: italic;}
+span {font-weight: bold;}
+
+input {border-radius: 40px;
+    border-width: 0.1px;
+        width: 300px;
+        height: 25px;}
+
+button {background-color: blue;
+border-radius: 40px;
+border-width: 0.1px;
+width: 100px;
+height: 25px;
+margin-top: 5px;}
+
+img {width: 300px;}
+
+i {width: 50px;}
+
+.container a {color: white;
+         text-decoration: none;}
+
+.main-footer a{color: rgb(17, 0, 255);
+}
+
+footer {margin-top: 100px;
+}
